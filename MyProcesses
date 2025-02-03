@@ -1,0 +1,1 @@
+Starting a program from my command line prompt, the programs parent process is Bash, or the shell, that processes' parent process is systemd, and that processes' parent process is process 0, which is created by the root file system. 

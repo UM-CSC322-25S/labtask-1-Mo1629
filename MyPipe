@@ -1,0 +1,1 @@
+$ ls -A | wc -l is a minimal pipeline command that will print the number of files and subdirectories in the current directory. 

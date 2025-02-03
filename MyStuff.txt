@@ -1,0 +1,7 @@
+My userID is 1000
+My GroupId is also 1000
+The names of all groups I belong to are mo1629 adm dialout cdrom floppy sudo audio dip video plugdev netdev
+The absolute path of my shell is /bin/bash
+The absolute path of my home directory is /home/mo1629
+My PATH environment variable is /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/HP/HP One Agent:/mnt/c/Program Files/Git/cmd:/mnt/c/Users/spike/AppData/Local/Microsoft/WindowsApps:/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2023.3.2/bin:/snap/bin
+ 
